@@ -9,4 +9,5 @@ MADE : RCNS#4379<br/>
 
 ## 패치노트
 [2022-04-01](https://github.com/raccoonsman/-UNITED/blob/main/%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/2022-04-01.md)<br/>
-[2022-04-02](https://github.com/raccoonsman/-UNITED/blob/main/%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/2022-04-02.md)
+[2022-04-02](https://github.com/raccoonsman/-UNITED/blob/main/%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/2022-04-02.md)<br/>
+[2022-04-04](https://github.com/raccoonsman/-UNITED/blob/main/%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/2022-04-04.md)
